@@ -10,8 +10,7 @@ Email Me 👉 ✉️ **akkalkotsameer0@gmail.com** For Collaboration/Project. �
 - 📫 **How to reach me:** akkalkotsameer0@gmail.com
 ---
 
-### 📊 GitHub Stats
-![Sameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudSameer&show_icons=true&theme=radical)
+
   
 
 ## 🌐 Socials:
