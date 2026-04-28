@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Mohmad Sameer
 **A passionate Cloud Engineer || DevOps Engineer**
 
-Email Me 👉 ✉️ **akkalkotsameer0@gmail.com** For Collaboration/Project. 😊😊
+Email Me 👉 ✉️ **akkalkotmdsameer@gmail.com** For Collaboration/Project. 😊😊
 - Status **Seeking Cloud /DevOps Roles** 
 - 🔭 **I’m currently working on:** devops-end-to-end-pipeline
 - 🌱 **I’m currently learning:** Docker,Kubernetes
