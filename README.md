@@ -7,14 +7,14 @@ Email Me 👉 ✉️ **akkalkotmdsameer@gmail.com** For Collaboration/Project. �
 - 🌱 **I’m currently learning:** Docker,Kubernetes
 - 👯 **I’m looking to collaborate on:** devops-end-to-end-pipeline
 - 🤔 **I’m looking for help with:** devops-end-to-end-pipeline
-- 📫 **How to reach me:** akkalkotsameer0@gmail.com
+- 📫 **How to reach me:** akkalkotmdsameer@gmail.com
 ---
 
 
   
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mohmadsameer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akkalkotsameer0@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mohmadsameer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akkalkotmdsameer@gmail.com) 
 
 
 # 💻 Tech Stack:
