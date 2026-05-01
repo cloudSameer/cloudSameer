@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Mohmad Sameer
+💫 Hi 👋, I'm Mohmad Sameer
 **A passionate Cloud Engineer || DevOps Engineer**
 
 Email Me 👉 ✉️ **akkalkotmdsameer@gmail.com** For Collaboration/Project. 😊😊
